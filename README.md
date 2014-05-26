@@ -1,4 +1,4 @@
-# typescript-bootplate - a TypeScript Build System by Grunt with resolving *.d.ts definitions
+# typescript-boilerplate - a TypeScript Build System by Grunt with resolving *.d.ts definitions
 
 ## How to use this
 
@@ -10,7 +10,7 @@
 
 ### fork this
 
-     $ git clone http://github.com/kanryu/typescript-bootplate
+     $ git clone http://github.com/kanryu/typescript-boilerplate
 
 ### tsd.json
 
@@ -64,7 +64,7 @@ if you want clean all, only type
 
 ## GitHub information
 
-The source code is available at http://github.com/kanryu/typescript-bootplate
+The source code is available at http://github.com/kanryu/typescript-boilerplate
 You can either clone the repository or download a tarball of the latest release.
 
 

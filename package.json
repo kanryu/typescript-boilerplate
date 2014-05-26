@@ -1,0 +1,19 @@
+{
+  "name": "typescript-bootplate",
+  "description": "a TypeScript Build System by Grunt with resolving *.d.ts definitions",
+  "version": "1.0.0",
+  "author":{
+      "name": "KATO Kanryu",
+      "url" : "https://github.com/kanryu"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-shell": "~0.6.4",
+    "grunt-typescript": "~0.3.6",
+    "grunt-tsd": "~0.1.0",
+    "tsd": "~0.5.7"
+  }
+}

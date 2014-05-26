@@ -14,6 +14,8 @@
 
 ### tsd.json
 
+[npm/tsd][2] manages *.d.ts automatically, dscribes a configuration as tsd.json .
+
 if you are a Windows User, type
 
     $ npm install -g tsd
@@ -86,3 +88,5 @@ You can either clone the repository or download a tarball of the latest release.
 
 
   [1]: https://github.com/DefinitelyTyped/tsd
+  [2]: https://www.npmjs.org/package/tsd
+

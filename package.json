@@ -1,5 +1,5 @@
 {
-  "name": "typescript-bootplate",
+  "name": "typescript-boilerplate",
   "description": "a TypeScript Build System by Grunt with resolving *.d.ts definitions",
   "version": "1.0.0",
   "author":{
